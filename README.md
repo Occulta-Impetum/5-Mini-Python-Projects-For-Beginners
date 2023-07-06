@@ -2,7 +2,7 @@
  
 From tech with Tim video https://www.youtube.com/watch?v=DLn3jOsNRVE
 
-# choose_your_adventure.py
+choose_your_adventure.py
 - Simple choose your adventure game using nested if and elif statements
 - I did not make this more in-depth since I switch to using classes and creating objects in another project
 
